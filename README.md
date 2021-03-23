@@ -1,7 +1,7 @@
 # stock-analysis for Steve
 ## Project Overview
 ### Purpose
-The purpose of this analysis was to view performance over time for different stocks in order to help the client decide which stocks they might want to invest in. 
+The purpose of this analysis was to view performance over time for different stocks in order to help the client decide which stocks they might want to invest in. Additinally, the purpose of this coding excercise was to refactor working code to make a more efficient and effective macro by which with the client can do future analyses. The two performance of the stocks are analyzed and the performance of the two programs are compared against one another.
 
 ## Results
 The VBA Challenge spreadsheet includes 3 buttons, one to run the stock analysis with the original program (VBA macro "yearValueAnalysis"), one to run the stock analysis with refactored code (VBA macro "AllStocksAnalysisRefactored), and one button to clear the sheet between runs. Both analysis buttons start with an input box for the user to input on which year they would like to run the analysis. Stock performance for both years are analyzed below and the code performance for both programs are measured against one another as well.
