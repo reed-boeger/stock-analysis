@@ -9,7 +9,7 @@ The VBA Challenge spreadsheet includes 3 buttons, one to run the stock analysis 
 ### stock performance for 2017
 The following image displays the performance of 12 different stocks (displayed in the 'Ticker' column) from the beginning to end of 2017. The total daily volume equates to how many stocks were traded and the return is how much the stock value changed from the first day to the last trading day of the year. It can be seen from inspecting the colored 'return' row from the tabel that many of the stocks had a positive return for the year, but DQ had the highest return at 199% return. The stock that had the highest trade volume in 2017 was SPWR with over 782,000 trades.
 
-<img src="Resources/VBA_Challenge_2018.png"
+<img src="Resources/VBA_Challenge_2017.PNG"
 width = "570" height = "223">
 
 
@@ -18,7 +18,7 @@ width = "570" height = "223">
 
 The following image shows the performance of the same 12 stocks in the year 2018. As can be seen quickly from inspection, there is a lot more red, and therefore stocks with negative returns. In fact, only two stocks had positive returns for the year, both just above 80% and those are ENPH and RUN. ENPH performed very well in 2017 too, and its trade volume increased from 2017 to 2018 and so it might be worth the investor taking a look at in the future.
 
-<img src="Resources/VBA_Challenge_2018.png"
+<img src="Resources/VBA_Challenge_2018.PNG"
 width = "612" height = "216">
 
 ### comparing analysis programs
