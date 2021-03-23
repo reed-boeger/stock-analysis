@@ -9,16 +9,15 @@ The VBA Challenge spreadsheet includes 3 buttons, one to run the stock analysis 
 ### stock performance for 2017
 The following image displays the performance of 12 different stocks (displayed in the 'Ticker' column) from the beginning to end of 2017. The total daily volume equates to how many stocks were traded and the return is how much the stock value changed from the first day to the last trading day of the year. It can be seen from inspecting the colored 'return' row from the tabel that many of the stocks had a positive return for the year, but DQ had the highest return at 199% return. The stock that had the highest trade volume in 2017 was SPWR with over 782,000 trades.
 
-<img src="Resources/VBA_Challenge_2017.png" 
-width ="864" height="339">
+<img src="Resources/VBA_Challenge_2018.png">
+
 
 
 ### stock performance for 2018
 
 The following image shows the performance of the same 12 stocks in the year 2018. As can be seen quickly from inspection, there is a lot more red, and therefore stocks with negative returns. In fact, only two stocks had positive returns for the year, both just above 80% and those are ENPH and RUN. ENPH performed very well in 2017 too, and its trade volume increased from 2017 to 2018 and so it might be worth the investor taking a look at in the future.
 
-<img src="Resources/VBA_Challenge_2018.png" 
-width ="928" height="328">
+<img src="Resources/VBA_Challenge_2018.png">
 
 ### comparing analysis programs
 
@@ -26,8 +25,7 @@ width ="928" height="328">
 
  As for the performance of the refactored code versus the original code, the following image displays a table with the time it took for both programs to analyze the data for 2017 and 2018.
 
-<img src="Resources/Code_Performance.png" 
-width ="346" height="112">
+<img src="Resources/Code_Performance.PNG">
 
 While the programs do not run exactly the same speed each time, due to computer utilization, The refactored program is nearly 10% faster for both years, and if this is extrapolated to longer datasets, or many runs are needed to be performanced in sequence, 10% faster can add up in computing time. It is definitly advantages to use the refactored program for further stock analysis if data were added to the spreadsheet, such as more tickers or more years of data.
 
